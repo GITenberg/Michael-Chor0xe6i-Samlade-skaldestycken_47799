@@ -1,10 +1,16 @@
 _repo: Michael-Chor0xe6i-Samlade-skaldestycken_47799
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Choraeus, Michael
     gutenberg_agent_id: '44474'
     url: http://www.gutenberg.org/2009/agents/44474
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47799#Michael-Chor0xe6i-Samlade-skaldestycken
 gutenberg_issued: '2014-12-28'
 gutenberg_type: Text
 identifiers:
